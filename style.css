@@ -1,0 +1,46 @@
+body {
+	background-color: wheat;
+}
+
+#Name {
+	padding: 0px 0px 20px 450px;
+	border: black;
+	border-style: groove ;
+	border-width: 5px;
+	height: auto;
+	width: auto;
+	margin: 1em 2em;
+}
+
+#group {
+	padding: 0px 0px 0px 89px;
+}
+
+#myhobbies {
+	padding: 0px 0px 0px 30px;
+}
+
+#hobbies {
+	padding: 0px 0px 20px 450px;
+	border: red;
+	border-style: dashed;
+	border-width: 5px;
+	height: auto;
+	width: auto;
+	font: 1.1em "iosevka", serif;
+	margin: 1em 2em;
+}
+
+#table {
+	padding: 0px 0px 0px 160px;
+}
+
+#timetable {
+	padding: 0px 0px 20px 350px;
+	border: blue;
+	border-style: dotted;
+	border-width: 5px;
+	height: auto;
+	width: auto;
+	margin: 1em 2em;
+}
