@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Condensed&family=Ubuntu&display=swap');
 body {
-	background-color: wheat;
+	background-color: #FFFFEF;
 }
 
 #Name {
@@ -9,6 +10,7 @@ body {
 	border-width: 5px;
 	height: auto;
 	width: auto;
+	font: 1.1em "Roboto Condensed", serif;
 	margin: 1em 2em;
 }
 
@@ -27,7 +29,7 @@ body {
 	border-width: 5px;
 	height: auto;
 	width: auto;
-	font: 1.1em "iosevka", serif;
+	font: 1.1em "Montserrat", serif;
 	margin: 1em 2em;
 }
 
@@ -42,5 +44,6 @@ body {
 	border-width: 5px;
 	height: auto;
 	width: auto;
+	font: 1.1em "Ubuntu", serif;
 	margin: 1em 2em;
 }
